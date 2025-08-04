@@ -1,0 +1,9 @@
+pyttsx3>=2.90
+SpeechRecognition>=3.8.1
+wikipedia
+openai
+google-cloud-texttospeech>=1.4.0
+pyjokes>=0.6.0
+pyautogui>=0.9.53
+PyAudio>=0.2.11
+python-dotenv>=0.19.0
